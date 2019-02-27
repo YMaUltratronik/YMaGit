@@ -3,4 +3,4 @@ YMa is the name. PP
 nihao
 Git is free under the GPL.
 Add a new line.
-Git tracks changes.
+Git tracks changes of files.
